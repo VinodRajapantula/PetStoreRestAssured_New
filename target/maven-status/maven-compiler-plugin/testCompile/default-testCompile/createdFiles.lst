@@ -1,0 +1,8 @@
+com\epam\put\PutTests.class
+com\epam\headers\GetHeaders.class
+com\epam\utility\ConvertJavaObjectToJson.class
+com\epam\post\PostsTests.class
+com\epam\delete\DeleteTests.class
+com\epam\utility\Helper.class
+com\epam\get\GetTests.class
+com\epam\get\GetTests$1.class
